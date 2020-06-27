@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "809767262170",
+    "firebase_url": "https://eyrie-d78b9.firebaseio.com",
+    "project_id": "eyrie-d78b9",
+    "storage_bucket": "eyrie-d78b9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:809767262170:android:55a8b553ae159ad45252e3",
+        "android_client_info": {
+          "package_name": "com.example.eyrie"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "809767262170-19t2fdr1hei1k68h0lpj0rnnllhatm5q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.eyrie",
+            "certificate_hash": "f421262b6526d41039324f156f8cc766125b920b"
+          }
+        },
+        {
+          "client_id": "809767262170-e7h1oli9drun78kkhogm2eurr2hp39a8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDiGlAoiqfUWvN-glmIx9aE9A0pqVkS7VQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "809767262170-e7h1oli9drun78kkhogm2eurr2hp39a8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
